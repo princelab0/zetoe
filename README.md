@@ -14,43 +14,25 @@ docker-compose up -d
 After running, you can access Zetoe at http://localhost:3000.
 
 ### Core features
+**Web Search Integration**: Instant answer based on latest web info and concise summary with AI.
 
-🔍 **Web Search Integration**
-Leverages search APIs to deliver real-time answers using up-to-date web data and LLM. Ideal for dynamic queries requiring current information.
+**Image Discovery**: Quickly retrieves revalent images based on the search query.
 
-🖼️ **Image Discovery**
-Retrieves visual content from integrated image APIs (e.g., Unsplash/Openverse) with contextual relevance ranking.
+**Specialized Modes**:  
+Includ different modes for differents task.
+(Web, Research, Translation, Grammar and Writing)
 
-🛠️ **Specialized Modes**
+**Smart Widgets**: Clean and minimal widgets for the quick information.
 
--Research Mode: Context-aware filters for academic/technical queries
+**News Explorer**: Aggregated verified news.
 
--Writing Mode: AI-assisted drafting with style/grammar checks
+**Multilingual UI**: auto-localized languages.
 
--Translation Mode: On-the-fly multilingual support (65+ languages)
+**Customization Hub**: Theme and search preferences.
 
-📊 **Smart Widgets**
-Customizable dashboard components showing trending topics, quick-access tools, and real-time data visualizations.
+**Theme Engine**: Custom CSS templates.
 
-🌐 **News Explorer**
-Curated news aggregation from verified sources, with initial focus on Nepali media outlets (Kathmandu Post, Online Khabar).
-
-🌍 **Multilingual UI**
-Supports 12 interface languages with automatic content localization.
-
-⚙️ **Customization Hub**
--Theme toggling (dark/light/system)
--Search preference profiles
-
-
-🎨 **Theme Engine**
-CSS-powered appearance customization with community template sharing.
-
-🔒 **Auth System**
--Prebuilt Supabase integration for:
--OAuth/email login flows
--Encrypted session management
--User preference sync
+**Auth System**: Secure Supabase login.
 
 
 ### Roadmap
