@@ -1,7 +1,7 @@
 # Zetoe
 <img src="/docs/cover_image.png" alt="Alt text" width="700" height="530">
 
-An AI-driven, distraction-free search engine and browser-based agent.
+An open-source AI-driven, distraction-free search engine and browser-based agents
 
 ### Quick Start
 The easiest way to start the Dify server is through Docker Compose. Before running Zetoe, ensure that Docker and Docker Compose are installed on your machine, then run the following commands:
