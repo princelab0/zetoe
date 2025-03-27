@@ -175,3 +175,4 @@ cython_debug/
 .src/frontend/next/cache/
 .src/frontend/next/node_modules/
 .src/frontend/next/.next/
+src/frontend/.next/cache/
