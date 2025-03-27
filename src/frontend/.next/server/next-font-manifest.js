@@ -1,1 +1,0 @@
-self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/prince/Documents/Github/nepaligpt/src/frontend/src/app/layout\":[\"static/media/bb3ef058b751a6ad-s.p.woff2\",\"static/media/e11418ac562b8ac1-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
