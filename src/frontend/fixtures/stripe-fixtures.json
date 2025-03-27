@@ -1,0 +1,94 @@
+{
+  "_meta": {
+    "template_version": 0
+  },
+  "fixtures": [
+    {
+      "name": "prod_free",
+      "path": "/v1/products",
+      "method": "post",
+      "params": {
+        "name": "Free",
+        "description": "Explore how AI can help you grow your business"
+      },
+      "metadata": {
+        "index": 0
+      }
+    },
+    {
+      "name": "price_free_month",
+      "path": "/v1/prices",
+      "method": "post",
+      "params": {
+        "product": "${prod_free:id}",
+        "currency": "usd",
+        "billing_scheme": "per_unit",
+        "unit_amount": 0,
+        "recurring": {
+          "interval": "month",
+          "interval_count": 1
+        }
+      },
+      "metadata": {
+        "index": 1
+      }
+    },
+    {
+      "name": "price_free_year",
+      "path": "/v1/prices",
+      "method": "post",
+      "params": {
+        "product": "${prod_free:id}",
+        "currency": "usd",
+        "billing_scheme": "per_unit",
+        "unit_amount": 0,
+        "recurring": {
+          "interval": "year",
+          "interval_count": 1
+        }
+      },
+      "metadata": {
+        "index": 2
+      }
+    },
+    {
+      "name": "prod_pro",
+      "path": "/v1/products",
+      "method": "post",
+      "params": {
+        "name": "Pro",
+        "description": "Unlock the all the features of NepaliGPT"
+      }
+    },
+    {
+      "name": "price_pro_month",
+      "path": "/v1/prices",
+      "method": "post",
+      "params": {
+        "product": "${prod_pro:id}",
+        "currency": "usd",
+        "billing_scheme": "per_unit",
+        "unit_amount": 500,
+        "recurring": {
+          "interval": "month",
+          "interval_count": 1
+        }
+      }
+    },
+    {
+      "name": "price_pro_year",
+      "path": "/v1/prices",
+      "method": "post",
+      "params": {
+        "product": "${prod_pro:id}",
+        "currency": "usd",
+        "billing_scheme": "per_unit",
+        "unit_amount": 6000,
+        "recurring": {
+          "interval": "year",
+          "interval_count": 1
+        }
+      }
+    }
+  ]
+}
