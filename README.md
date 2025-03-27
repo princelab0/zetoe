@@ -1,7 +1,6 @@
 # Zetoe
 <img src="/docs/cover_image.png" alt="Alt text" width="700" height="530">
 
----
 An AI-driven, distraction-free search engine and browser-based agent.
 
 ### Quick Start
@@ -13,7 +12,6 @@ cp .env.example .env
 docker-compose up -d
 ```
 After running, you can access Zetoe at http://localhost:3000.
-
 
 ### Core features
 
@@ -69,5 +67,3 @@ CSS-powered appearance customization with community template sharing.
 - [ ] File upload  
 - [ ] Image generation
 
-
-### How to Contribute?
