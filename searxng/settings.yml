@@ -2,7 +2,7 @@
 use_default_settings: true
 
 server:
-  secret_key: "f9e603d4191caab069b021fa0568391a33c8a837b470892c64461b5dd12464f4"
+  secret_key: "change_me"
   limiter: false
   image_proxy: true
   port: 8080
