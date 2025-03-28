@@ -172,8 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-.src/frontend/next/cache/
-.src/frontend/next/node_modules/
-.src/frontend/next/.next/
-.src/frontend/.next/cache/
-.src/frontend/.next/
+src/frontend/next/cache/
+src/frontend/node_modules/
+src/frontend/next/.next/
+src/frontend/.next/cache/
+src/frontend/.next/
