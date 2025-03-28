@@ -52,7 +52,7 @@ services:
           path: ./src/backend
           target: /workspace/src/backend
     networks:
-      - farfalle-network
+      - zetoe-network
     extra_hosts:
       - "host.docker.internal:host-gateway"
 
@@ -65,7 +65,7 @@ services:
     volumes:
       - ./searxng:/etc/searxng:rw
     networks:
-      - farfalle-network
+      - zetoe-network
 
   db:
     image: postgres:15.2-alpine
@@ -79,11 +79,11 @@ services:
     volumes:
       - db_volume:/var/lib/postgresql/data
     networks:
-      - farfalle-network
+      - zetoe-network
 
 networks:
-  farfalle-network:
-    name: farfalle-network
+  zetoe-network:
+    name: zetoe-network
 
 volumes:
   db_volume:

@@ -10,7 +10,7 @@ export default function Privacy() {
     <div className='min-h-screen py-12 pt-[72px] px-4 sm:px-6 lg:px-8 bg-[var(--background)] '>
       <div className='max-w-3xl mx-auto'>
         <h1 className='text-xl md:text-3xl font-bold text-gray-600 text-center mb-8 w-full text center'>
-          NepaliGPT Privacy Policy
+          Zetoe Privacy Policy
         </h1>
         <hr className=' px-1 my-3' />
         <div className='bg-[var(--card)] shadow-sm rounded-lg overflow-hidden'>
@@ -142,7 +142,7 @@ export default function Privacy() {
                 Use of Cookies
               </h2>
               <p className='text-gray-500'>
-                NepaliGPT uses cookies to give you the best online experience.
+                Zetoe uses cookies to give you the best online experience.
                 By using our website you agree to our use of cookies in
                 accordance with our cookie policy.
               </p>
@@ -266,8 +266,8 @@ export default function Privacy() {
                 protection laws, you have a legal right to lodge a complaint
                 with a supervisory authority responsible for data protection. If
                 you have any queries,you can drop us an email at :
-                <Link href='mailto:contactus@nepaliGPT.org'>
-                  contactus@nepaliGPT.org
+                <Link href='mailto:contactus@zetoe.com'>
+                  contactus@zetoe.com
                 </Link>
               </p>
             </section>

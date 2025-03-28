@@ -38,7 +38,7 @@ export default function ForgotPassword({
           </h1>
           <p className='text-gray-600 dark:text-gray-300 text-md'>
             To reset your password, please enter the email address of your
-            nepaliGpt account.
+            Zetoe account.
           </p>
           <p className='text-gray-600 dark:text-gray-300 text-base mt-2'>
             Password reset link sent to your email.

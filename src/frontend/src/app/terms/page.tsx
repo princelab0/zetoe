@@ -11,7 +11,7 @@ export default function TermsPage() {
     <div className='min-h-screen bg-[var(--background)] text-[var(--foreground)] py-12 pt-[72px] px-4 sm:px-6 lg:px-8'>
       <div className='max-w-3xl mx-auto'>
         <h1 className='text-3xl font-bold text-gray-900 dark:text-gray-50 text-center mb-8'>
-          NepaliGPT Terms & Conditions
+          Zetoe Terms & Conditions
         </h1>
         <div className='bg-[var(--card)] shadow-sm rounded-lg overflow-hidden'>
           <div className='px-4 py-5 sm:p-6 space-y-6'>
@@ -21,9 +21,9 @@ export default function TermsPage() {
               </h2>
               <p className='text-gray-600 dark:text-gray-400 text-justify '>
                 Please read these Terms carefully. Access to, and use of
-                NepaliGPT products ("Products"), NepaliGPT services
-                ("Services"), and the NepaliGPT website
-                https://chat.nepaligpt.com/ ("Website"), including any of its
+                Zetoe products ("Products"), Zetoe services
+                ("Services"), and the Zetoe website
+                https://chat Zetoe.com/ ("Website"), including any of its
                 content, is conditional on your agreement to these Terms. You
                 must read, agree with, and accept all of the terms and
                 conditions contained in these Terms. By creating an account, or
@@ -111,33 +111,33 @@ export default function TermsPage() {
               </h2>
               <p className='text-gray-600 dark:text-gray-400 text-justify'>
                 By purchasing Products and/or Services, you agree to pay
-                NepaliGPT annual subscription fees indicated for such Product or
+                Zetoe annual subscription fees indicated for such Product or
                 Service. Payments will be due as of the first day you sign up
                 for a Product and/or Services, and will cover an annual period,
                 as indicated when signing up.
                 <br />
                 <br />
                 Configurations and prices of the Website, Products, and/or
-                Services are subject to change at any time, and NepaliGPT shall
+                Services are subject to change at any time, and Zetoe shall
                 at all times be entitled to modify configurations, fees, prices
                 and quotations, provided that no price changes shall be made
                 applicable to you during a subscription term, and shall only
-                take effect after NepaliGPT and you have agreed upon an
+                take effect after Zetoe and you have agreed upon an
                 extension, upgrade or renewal of the subscription term. You
                 agree to any such changes if you do not object in writing to
-                NepaliGPT within seven (7) business days of receiving a notice
-                of NepaliGPT, or an invoice, incorporating or announcing the fee
+                Zetoe within seven (7) business days of receiving a notice
+                of Zetoe, or an invoice, incorporating or announcing the fee
                 and/or price changes. All prices are exclusive of, and you shall
                 pay all taxes, duties, levies or fees, or other similar charges
-                imposed on NepaliGPT or yourself by any taxing authority (other
-                than taxes imposed on NepaliGPT&apos;s income), related to your
-                order, unless you have provided NepaliGPT with an appropriate
+                imposed on Zetoe or yourself by any taxing authority (other
+                than taxes imposed on Zetoe&apos;s income), related to your
+                order, unless you have provided Zetoe with an appropriate
                 resale or exemption certificate for the delivery location, which
                 is the location where the Products and/or Services are used or
                 performed. In case of changes in law such that a tax is levied
                 that is or becomes irrecoverable with a consequent increase to
-                the costs to NepaliGPT of delivering the Products and/or
-                Services, whereby and to such an extent NepaliGPT is entitled to
+                the costs to Zetoe of delivering the Products and/or
+                Services, whereby and to such an extent Zetoe is entitled to
                 increase its prices accordingly and retroactively.
               </p>
             </section>
@@ -162,10 +162,10 @@ export default function TermsPage() {
                 Use of Third Party Content and Materials
               </h2>
               <p className='text-gray-600 dark:text-gray-400 text-justify'>
-                NepaliGPT has not reviewed, and cannot review, all of the
+               Zetoe has not reviewed, and cannot review, all of the
                 material, including computer software, posted to the Website,
                 and cannot therefore be responsible for that material&apos;s
-                content, use or effects. By operating the Website, NepaliGPT
+                content, use or effects. By operating the Website, Zetoe
                 does not represent or imply that it endorses the material there
                 posted, or that it believes such material to be accurate, useful
                 or non-harmful. The Website may contain content that is
@@ -176,7 +176,7 @@ export default function TermsPage() {
                 infringes the intellectual property and other proprietary
                 rights, of third parties, or the downloading, copying or use of
                 which is subject to additional terms and conditions, stated or
-                unstated. NepaliGPT disclaims any responsibility for any harm
+                unstated. Zetoe disclaims any responsibility for any harm
                 and/or damages resulting from the use or downloading of postings
                 of other parties on the website.
               </p>
@@ -186,11 +186,11 @@ export default function TermsPage() {
                 Copyright Infringement
               </h2>
               <p className='text-gray-600 dark:text-gray-400 text-justify'>
-                As NepaliGPT requires others to respect its intellectual
+                As Zetoe requires others to respect its intellectual
                 property rights, it respects the intellectual property rights of
                 others. If you believe that material located on or linked to by
                 the Website violates your copyright, you are encouraged to
-                notify NepaliGPT. NepaliGPT will, as it is able, respond to all
+                notify Zetoe. Zetoe will, as it is able, respond to all
                 such notices, including as required or appropriate by removing
                 the infringing material or disabling all links to the infringing
                 material. In order to bring infringing material to our
@@ -213,17 +213,17 @@ export default function TermsPage() {
                 Trademarks
               </h2>
               <p className='text-gray-600 dark:text-gray-400 text-justify'>
-                NepaliGPT, the NepaliGPT logo, and all other trademarks, service
+               Zetoe, the Zetoe logo, and all other trademarks, service
                 marks, graphics and logos used in connection with the Website,
                 Products, and Services, are trademarks or registered trademarks
-                of NepaliGPT or NepaliGPT&apos;s licensors. Other trademarks,
+                of Zetoe or Zetoe&apos;s licensors. Other trademarks,
                 service marks, graphics and logos used in connection with the
                 Website, Products, and Services, may be the trademarks of other
                 third parties in which case such license is for the exclusive
                 benefit and use of us unless otherwise stated, or may be the
                 property of their respective owners. Your use of the Website
                 grants you no right or license to reproduce or otherwise use any
-                NepaliGPT or third party trademarks. Likewise, you grant no
+               Zetoe or third party trademarks. Likewise, you grant no
                 right or license to reproduce or otherwise use any of your
                 trademarks, service marks, graphics and/or logos, unless
                 expressly authorized by you.
@@ -234,42 +234,42 @@ export default function TermsPage() {
                 Termination
               </h2>
               <p className='text-gray-600 dark:text-gray-400 text-justify'>
-                NepaliGPT, the NepaliGPT logo, and all other trademarks, service
+               Zetoe, the Zetoe logo, and all other trademarks, service
                 marks, graphics and logos used in connection with the Website,
                 Products, and Services, are trademarks or registered trademarks
-                of NepaliGPT or NepaliGPT&apos;s licensors. Other trademarks,
+                of Zetoe or Zetoe&apos;s licensors. Other trademarks,
                 service marks, graphics and logos used in connection with the
                 Website, Products, and Services, may be the trademarks of other
                 third parties in which case such license is for the exclusive
                 benefit and use of us unless otherwise stated, or may be the
                 property of their respective owners. Your use of the Website
                 grants you no right or license to reproduce or otherwise use any
-                NepaliGPT or third party trademarks. Likewise, you grant no
+               Zetoe or third party trademarks. Likewise, you grant no
                 right or license to reproduce or otherwise use any of your
                 trademarks, service marks, graphics and/or logos, unless
                 expressly authorized by you.
                 <br />
                 <br />
-                NepaliGPT may terminate any agreement and access to your
+               Zetoe may terminate any agreement and access to your
                 account, if the Services or any part thereof, are no longer
                 legally available in your jurisdiction, or are no longer
-                commercially viable, at NepaliGPT&apos;s sole discretion. In
+                commercially viable, at Zetoe&apos;s sole discretion. In
                 case of termination or closing of your account by you because of
-                a material breach by NepaliGPT, without any default by you, or
-                in case of a force majeure on the side of NepaliGPT, NepaliGPT
+                a material breach by Zetoe, without any default by you, or
+                in case of a force majeure on the side of Zetoe, Zetoe
                 will refund pro rata for the remaining period of your
                 subscription any fees or expenses paid by you.
                 <br />
                 <br />
-                If you believe that NepaliGPT has failed to perform or the
-                Services are defective, you must notify NepaliGPT in writing and
-                allow fourteen (14) days for NepaliGPT to cure the defect. If
-                NepaliGPT cures the defect within this cure period, NepaliGPT
+                If you believe that Zetoe has failed to perform or the
+                Services are defective, you must notify Zetoe in writing and
+                allow fourteen (14) days for Zetoe to cure the defect. If
+               Zetoe cures the defect within this cure period, Zetoe
                 will not be in default and cannot be held liable for any damages
-                and/or losses in connection to such default. If NepaliGPT has
+                and/or losses in connection to such default. If Zetoe has
                 not cured the defect within this cure period, you may terminate
                 the subscription with immediate effect, upon written notice to
-                NepaliGPT.
+               Zetoe.
               </p>
             </section>
 
@@ -281,7 +281,7 @@ export default function TermsPage() {
                 The configurations and specifications of the Website, including
                 without limitation all content there available, the Products,
                 and the Services may be amended and/or updated from time to
-                time, at the sole discretion of NepaliGPT. You are bound by any
+                time, at the sole discretion of Zetoe. You are bound by any
                 such changes or updates, unless such changes materially diminish
                 the functionality and value of the Website, Products and/or
                 Services.
@@ -294,7 +294,7 @@ export default function TermsPage() {
               <p className='text-gray-600 dark:text-gray-400 text-justify'>
                 You represent and warrant that your use of the Website,
                 Products, and/or Services will be in accordance with any
-                agreement between you and NepaliGPT, the NepaliGPT Privacy
+                agreement between you and Zetoe, the Zetoe Privacy
                 Policy, these Terms, and with any applicable laws and
                 regulations, including without limitation any local laws or
                 regulations in your country, state, city, or other governmental
@@ -324,7 +324,7 @@ export default function TermsPage() {
                 and/or Services, you are solely responsible for any data,
                 including personally identifiable information, collected or
                 processed via our Products and/or Services. You will defend,
-                indemnify, and hold NepaliGPT harmless, without any limitation,
+                indemnify, and hold Zetoe harmless, without any limitation,
                 for all damages in connection to (alleged) violations of any
                 privacy laws through the use of the Products and/or Services
                 under your account.
@@ -345,9 +345,9 @@ export default function TermsPage() {
                 involved party.
                 <br />
                 <br />
-                NepaliGPT will not be liable for any delay in performing or
+               Zetoe will not be liable for any delay in performing or
                 failure to perform any of its obligations to you caused by
-                events beyond its reasonable control. NepaliGPT will notify you
+                events beyond its reasonable control. Zetoe will notify you
                 promptly in writing of the reasons for the delay or stoppage
                 (and the likely duration) and will take all reasonable steps to
                 overcome the delay or stoppage.

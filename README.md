@@ -4,6 +4,7 @@
 An open-source AI-driven, distraction-free search engine and browser-based agents
 
 ### Quick Start
+
 The easiest way to start the Dify server is through Docker Compose. Before running Zetoe, ensure that Docker and Docker Compose are installed on your machine, then run the following commands:
 ```
 git clone https://github.com/princelab0/zetoe.git
@@ -14,6 +15,7 @@ docker-compose up -d
 After running, you can access Zetoe at http://localhost:3000.
 
 ### Core features
+
 **Web Search Integration**: Instant answer based on latest web info and concise summary with AI.
 
 **Image Discovery**: Quickly retrieves revalent images based on the search query.
@@ -34,7 +36,6 @@ Includ different modes for differents task.
 
 **Auth System**: Secure Supabase login.
 
-
 ### Roadmap
 
 - [x] Web search  
@@ -48,4 +49,3 @@ Includ different modes for differents task.
 - [ ] Image upload  
 - [ ] File upload  
 - [ ] Image generation
-

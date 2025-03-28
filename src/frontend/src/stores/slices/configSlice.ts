@@ -40,11 +40,11 @@ export const createConfigSlice: StateCreator<
     // Set the model based on the prompt mode
     let model: ChatModel;
     if (promptMode === PromptMode.Web) {
-      model = ChatModel.GPT_4O_MINI; // GPT-4O for Web mode
+      model = ChatModel.LLAMA_3_70B; // GPT-4O for Web mode
     } else if (promptMode === PromptMode.Research) {
       model = ChatModel.LLAMA_3_70B; // DeepSeek for Research mode
     } else {
-      model = ChatModel.GPT_4O; // NepaliGPT-2O (GPT_4O) for all other modes
+      model = ChatModel.LLAMA_3_70B; // NepaliGPT-2O (GPT_4O) for all other modes
     }
     // Optimistically update the UI state
     set({ promptMode, proMode: proModeValue, model });

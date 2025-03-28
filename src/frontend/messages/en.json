@@ -102,7 +102,7 @@
         "Unlimited normal search",
         "Unlimited research search per day",
         "Select your preferred model",
-        "Access to latest NepaliGPT model",
+        "Access to latest Zetoe model",
         "Personalized support"
       ]
     },
@@ -115,7 +115,7 @@
     "featureUnavailable": "We are currently working on this feature. Feel free to contact us if you need any help."
   },
   "footer": {
-    "title": "NepaliGPT can make mistakes. Check important information.",
+    "title": "Zetoe can make mistakes. Check important information.",
     "footerList": {
       "faq": "Help and FAQ",
       "feedback": "Feedback",
@@ -134,22 +134,22 @@
     "subheader": "Have questions? We're here to help.",
     "accordion": {
       "item1": {
-        "question": "What is NepaliGPT?",
-        "answer": "NepaliGPT is an AI agent based search engine which provides accurate and up-to-date answers backed by sources."
+        "question": "What is Zetoe?",
+        "answer": "Zetoe is an AI agent based search engine which provides accurate and up-to-date answers backed by sources."
       },
       "item2": {
         "question": "How is it different from other search engines?",
         "answer": {
-          "caption": "Comparison of NepaliGpt and perperxility features",
+          "caption": "Comparison of Zetoe and perperxility features",
           "headers": {
             "features": "Features",
-            "nepaliGpt": "NepaliGpt",
+            "nepaliGpt": "Zetoe",
             "perperxility": "perperxility"
           },
           "featuresList": {
             "f1": "AI based Answer",
             "f2": "deep level thinking",
-            "f3": "NepaliGPT based model",
+            "f3": "Zetoe based model",
             "f4": "IO research queries per day",
             "f5": "AI personalized News"
           },
@@ -163,7 +163,7 @@
         "answer": "Agentic AI search does multilevel reasoning and planning to get the right answer."
       },
       "item4": {
-        "question": "Do I need NepaliGPT pro?",
+        "question": "Do I need Zetoe pro?",
         "answer": "Not really, we provide 10 queries per day. If you want more queries, you can upgrade to the pro version."
       },
       "item5": {

@@ -45,7 +45,7 @@ export default function PasswordSignIn({
       <div className='w-[90%] max-w-[32rem] gap-2   p-4 md:p-6    bg-white dark:border-none dark:bg-[hsl(180,3%,13%)] rounded-2xl shadow-lg border border-gray-200 flex flex-col '>
         <div className='flex flex-col gap-1'>
           <h2 className='text-start w-full md:text-center text-xl md:text-2xl font-semibold text-neutral-600 dark:text-white'>
-            Login to NepaliGPT
+            Login to Zetoe
           </h2>
         </div>
         <GoogleOAuth />
