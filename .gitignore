@@ -177,4 +177,5 @@ src/frontend/node_modules/
 src/frontend/next/.next/
 src/frontend/.next/cache/
 src/frontend/.next/
-src/frontend/node_modules/
+src/frontend/node_modules/node_modules/
+.pnpm-store/
