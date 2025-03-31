@@ -21,7 +21,7 @@ After running, you can access Zetoe at http://localhost:3000.
 **Image Discovery**: Quickly retrieves revalent images based on the search query.
 
 **Specialized Modes**:  
-Includ different modes for differents task.
+Include different modes for differents task.
 (Web, Research, Translation, Grammar and Writing)
 
 **Smart Widgets**: Clean and minimal widgets for the quick information.
@@ -45,7 +45,11 @@ Includ different modes for differents task.
 - [x] Explore page  
 - [x] Authentication  
 - [x] Theme management  
-- [x] Different model options  
-- [ ] Image upload  
+- [x] Different model options
+- [ ] knowledge space
+- [ ] Image upload
 - [ ] File upload  
 - [ ] Image generation
+- [ ] Chatbot integration
+- [ ] Gmail integration
+- [ ] Telegram integration
